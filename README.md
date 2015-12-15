@@ -3,4 +3,4 @@
 
 截图：
 
-![截图](http://ww3.sinaimg.cn/mw1024/006e1q8ojw1ez0dstypicj30c40cw3zh.jpg)
+![截图](http://ww4.sinaimg.cn/mw1024/006e1q8ogw1ez0mm9wwczj309i0amgma.jpg)
