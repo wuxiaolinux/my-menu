@@ -1,8 +1,12 @@
 
 .tj_menu {
-	border: 1px solid #000000;
+	border: none;
 	width: 100%;
 	padding: 0;
+	-webkit-user-select:none;
+    -moz-user-select:none;
+    -ms-user-select:none;
+    user-select:none;
 }
 
 .tj_menu li {
@@ -19,7 +23,7 @@
 	position: relative;
 }
 
-.tj_menu_ul_li, .tj_menu_ul_li_u {
+.tj_menu_ul_li, .tj_menu_ul_li_s {
 	display:block;
 	padding: 2px 5px;
 	width: 100%;
@@ -40,6 +44,6 @@
 	background-color: #1B6D85;
 }
 
-.tj_menu_ul_li_u {
-	left: 20px;
+.tj_menu_ul_li_s {
+	left: 15px;
 }
