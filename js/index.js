@@ -5,7 +5,7 @@ $(function() {
 
 	$('.fun_leaf').on('click', function() {
 		openFun(this);
-	})
+	});
 });
 
 function openMenu(obj) {
